@@ -1,6 +1,11 @@
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
+## Get Started:
+* cd kata-machine
+* yarn install
+* yarn generate
+
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
